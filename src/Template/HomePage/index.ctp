@@ -75,10 +75,10 @@ $cakeDescription = 'CakePHP 3.x';
     </nav>
 </head>
 
-<body>
+<body onload="spark()">
 <div >
     <div id="box1">
-        <h1 class="parallax-content text-center">CakePHP 3.x <small>Learning</small></h1>
+        <h1 class="parallax-content text-center" id="page-title" >CakePHP 3.x <small>Learning</small></h1>
     </div>
     <hr />
 
@@ -185,7 +185,8 @@ $cakeDescription = 'CakePHP 3.x';
     </div>
     <hr />
 
-<div>
+    <div>
+
 </body>
 <footer>
     <div id="box2">
