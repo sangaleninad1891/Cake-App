@@ -18,7 +18,7 @@ SYSTEM FEATURES
 - Circular progress bar (on dashboard)
 - JSON+AJAX to display recently modified 3 posts
 - Technologies Used: PHP, CakePHP 3.x, MySQL, Apache, Bootstrap, jQuery, HTML, CSS, google reCaptcha, JSON, XML
-- CSS and JS files were deliberately kept separate for the purpose of reuse  
+- CSS and JS files were deliberately kept separate for making reuse easier to anyone
 Find system images on: https://sangaleninad1891.wixsite.com/ninads/work
 
 ## For Installation and Configuration
